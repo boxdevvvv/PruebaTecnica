@@ -427,7 +427,7 @@ GameObject:
   - component: {fileID: 7925051584051125028}
   - component: {fileID: 7925051584051125030}
   m_Layer: 5
-  m_Name: ContenedorScrollRect__________________________
+  m_Name: ContenedorScrollRect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
